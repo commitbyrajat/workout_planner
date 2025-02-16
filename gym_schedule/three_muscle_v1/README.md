@@ -1,209 +1,241 @@
-### **🔥 Ultimate 6-Day Strength & Muscle Growth Plan 💪 (With Supersets, Drop Sets, Pyramid Sets & Combos!)**
+# Detailed 6-Day Split Workout Program
 
-🛠️ Format Key:
-```
-5x5: Heavy Strength (5 sets, 5 reps, 80-90% 1RM)
-Superset: Perform two exercises back-to-back with no rest
-Drop Set: Reduce weight & continue after failure
-Pyramid Set: Increase or decrease weight each set
-Combo: One movement flows into another
-```
+## Monday: Chest (Major), Back (Minor), Thigh (Minor)
 
-Each workout is structured for maximum intensity, ensuring progressive overload while keeping things exciting.
+### Chest (Major)
+1. **Flat Bench Press - Barbell – (Middle Chest (1), Triceps (1))**
+   * *(Pyramid Set: 12→10→8→6 reps, increasing weight each set)*
+   * *(Primary mass builder for overall chest development)*
 
----
+2. **Incline Barbell Bench Press – (Upper Chest (1), Front Delts (1))**
+   * *(4 sets of 10-12 reps, controlled tempo)*
+   * *(Targets upper chest fibers for complete development)*
 
-## **🔹 Monday – Chest (Major) + Back (Minor) + Thighs (Minor)**
-### **🔥 Chest (Major) – Pyramid & Drop Sets**
-1. **Incline Barbell Bench Press** *(Pyramid Set: 12, 10, 8, 6 reps increasing weight)*
-    - *(Upper Chest, Shoulders, Triceps)* – *(Mass builder for upper pecs, improves pressing strength)*
-2. **Flat Dumbbell Press** *(Drop Set: 3 Sets, last set drop weight by 30% and go to failure)*
-    - *(Middle Chest, Triceps, Front Delts)* – *(Enhances muscle fiber recruitment for thickness)*
-3. **Cable Crossover (Mid-Level)** *(Superset with Dips – 3 Sets of 12 reps each)*
-    - *(Middle Chest, Serratus Anterior)* – *(Maximizes chest contraction and muscle separation)*
-4. **Dips (Chest-Focused)** *(Superset with Cable Crossover – 3 Sets of 10 reps)*
-    - *(Lower Chest, Triceps, Shoulders)* – *(Powerful chest finisher for muscle engagement)*
+3. **Decline Bench Press - Barbell – (Lower Chest (1), Triceps (2))**
+   * *(3 sets of 10-12 reps, focus on lower chest contraction)*
+   * *(Develops lower chest fullness and strength)*
 
-### **🔥 Back (Minor) – Strength & Hypertrophy**
-5. **Pull-Ups (Weighted if possible)** *(3 Sets of 8-10 reps)*
-    - *(Lats, Biceps, Core)* – *(Great for width and upper back strength)*
-6. **T-Bar Row** *(Drop Set on last set, reduce weight by 40% and rep out)*
-    - *(Lats, Mid Back, Lower Back)* – *(Mass and thickness builder for back density)*
+4. **Cable Crossover – (Middle Chest (2), Lower Chest (2))**
+   * *(Drop Set: Start heavy 8 reps, drop 20% twice)*
+   * *(Excellent for chest isolation and peak contraction)*
 
-### **🔥 Thighs (Minor) – Compound & Stability Focus**
-7. **Leg Press (Feet Low & Close Stance)** *(Pyramid Set: 15, 12, 10, 8 reps increasing weight)*
-    - *(Quadriceps, Adductors, Glutes)* – *(Targets quads with heavy controlled reps)*
-8. **Bulgarian Split Squats (Dumbbell or Barbell)** *(3 Sets of 10 reps each leg)*
-    - *(Glutes, Quads, Hamstrings)* – *(Enhances single-leg strength & stability)*
+### Back (Minor)
+1. **Wide-Grip Lat Pulldown – (Lats (1), Upper Back (1))**
+   * *(3 sets of 12 reps, controlled negative)*
+   * *(Maintains back width while supporting chest day)*
 
----
+2. **Face Pulls – (Rear Delts (1), Upper Back (2))**
+   * *(3 sets of 15 reps, focus on contraction)*
+   * *(Promotes shoulder health and posture)*
 
-## **🔹 Tuesday – Shoulders (Major) + Biceps (Minor) + Triceps (Minor)**
-### **🔥 Shoulders (Major) – Supersets & Drop Sets**
-1. **Overhead Barbell Press** *(Pyramid Set: 12, 10, 8, 6 reps increasing weight)*
-    - *(Front Delts, Traps, Triceps)* – *(Essential for pressing power and overall deltoid growth)*
-2. **Dumbbell Lateral Raises** *(Superset with Upright Rows – 3 Sets of 12 reps each)*
-    - *(Middle Delts, Traps)* – *(Key for broad shoulders and V-taper aesthetics)*
-3. **Upright Row (EZ Bar)** *(Superset with Dumbbell Lateral Raises – 3 Sets of 10 reps)*
-    - *(Traps, Delts, Biceps)* – *(Powerful for upper back and shoulder width)*
-4. **Face Pulls (Cable or Band)** *(Drop Set on last set, reduce weight and go to failure)*
-    - *(Rear Delts, Upper Traps, Rotator Cuff)* – *(Essential for shoulder health and posture)*
+### Thigh (Minor)
+1. **Leg Press – (Quads (1), Glutes (1))**
+   * *(3 sets of 15 reps, moderate weight)*
+   * *(Maintains leg strength without excessive fatigue)*
 
-### **🔥 Biceps (Minor) – Strength & Peak Focus**
-5. **Barbell Curl (EZ Bar or Straight Bar)** *(Pyramid Set: 12, 10, 8, 6 reps increasing weight)*
-    - *(Biceps Short & Long Head, Forearms)* – *(Best for overall biceps mass and strength)*
-6. **Hammer Curls** *(Superset with Preacher Curls – 3 Sets of 12 reps each)*
-    - *(Biceps Brachialis, Forearms)* – *(Increases arm thickness and forearm strength)*
-7. **Preacher Curl (Machine or Dumbbell)** *(Superset with Hammer Curls – 3 Sets of 10 reps)*
-    - *(Biceps Short Head, Forearm Stabilizers)* – *(Great for isolated biceps pump and peak development)*
+2. **Standing Calf Raises – (Gastrocnemius (1))**
+   * *(3 sets of 20 reps, full range of motion)*
+   * *(Develops calf endurance and size)*
 
-### **🔥 Triceps (Minor) – Definition & Strength**
-8. **Cable Rope Pushdowns** *(Drop Set on last set, reduce weight and go to failure)*
-    - *(Triceps Lateral & Medial Head)* – *(Finisher for maximum pump and shape)*
+## Tuesday: Shoulder (Major), Biceps (Minor), Triceps (Minor)
 
----
+### Shoulder (Major)
+1. **Overhead Press – (All Three Deltoid Heads, Front Delts (2), Middle Delts (1), Triceps (3))**
+   * *(Pyramid Set: 12→10→8→6 reps, increasing weight)*
+   * *(Primary movement for overall shoulder development)*
 
-## **🔹 Wednesday – Chest (Minor) + Back (Major) + Thighs (Minor)**
-### **🔥 Back (Major) – Compound Strength & Muscle Building**
-1. **Deadlifts** *(Pyramid Set: 12, 10, 8, 6 reps increasing weight)*
-    - *(Lower Back, Glutes, Hamstrings, Upper Back)* – *(Ultimate back and posterior chain builder)*
-2. **Lat Pulldown (Wide Grip)** *(Drop Set on last set, reduce weight and go to failure)*
-    - *(Lats, Biceps, Rear Delts)* – *(Great for width and lat engagement)*
-3. **Bent-Over Barbell Rows** *(Superset with Chest-Supported Rows – 3 Sets of 10 reps each)*
-    - *(Lats, Mid-Back, Rear Delts)* – *(Best for back thickness and strength)*
-4. **Chest-Supported Rows (Machine or Dumbbells)** *(Superset with Barbell Rows – 3 Sets of 12 reps)*
-    - *(Lats, Teres Major, Traps)* – *(More stability, isolates lats and mid-back without excessive momentum)*
+2. **Dumbbell Lateral Raise + Upright Row – (Middle Delts (2), Front Delts (3))**
+   * *(Superset: 3 sets of 12 reps each)*
+   * *(Targets shoulder width and front delt power)*
 
-### **🔥 Chest (Minor) – Strength & Definition**
-5. **Incline Dumbbell Press** *(3 Sets of 12 reps each)*
-    - *(Upper Chest, Triceps, Shoulders)* – *(Targets upper pecs with controlled reps)*
-6. **Decline Dumbbell Press** *(Drop Set on last set, reduce weight and go to failure)*
-    - *(Lower Chest, Triceps, Shoulders)* – *(Builds the lower pec line for a complete look)*
+3. **Cable Face Pull – (Rear Delts (2), Upper Back (3))**
+   * *(Drop Set: 12 reps, drop 20% twice)*
+   * *(Builds rear delt thickness and improves posture)*
 
-### **🔥 Thighs (Minor) – Stability & Strength**
-7. **Hack Squats (Machine or Barbell)** *(3 Sets of 12 reps each)*
-    - *(Quadriceps, Glutes, Adductors)* – *(Provides better knee stability while deeply engaging quads)*
+4. **Front Raise to Lateral Raise – (Front Delts (4), Middle Delts (3))**
+   * *(Combo: 3 sets of 10 reps each position)*
+   * *(Complete deltoid exhaustion for maximum growth)*
 
----
+### Biceps (Minor)
+1. **Barbell Curl – (Overall Biceps, Biceps Short Head (1), Biceps Long Head (1))**
+   * *(3 sets of 12 reps, strict form)*
+   * *(Builds foundational bicep strength)*
 
-## **🔹 THURSDAY – SHOULDERS (MINOR) + BICEPS (MAJOR) + TRICEPS (MINOR)**
-### **🔥 Biceps (Major) – Volume & Peak Development (Supersets & Drop Sets)**
-1. **Barbell Curl (EZ Bar or Straight Bar) – (Biceps Short & Long Head, Forearms)**
-    - *(Pyramid Set: 12, 10, 8, 6 reps increasing weight)*
-    - *(Best for overall biceps mass and strength, full stretch and contraction for peak activation)*
+2. **Hammer Curls – (Biceps Long Head (2), Brachialis (1))**
+   * *(3 sets of 12 reps, alternating arms)*
+   * *(Develops arm thickness and forearm strength)*
 
-2. **Incline Dumbbell Curls – (Biceps Long Head, Brachialis, Forearms)**
-    - *(Superset with Spider Curls – 3 Sets of 12 reps each)*
-    - *(Great for isolating the long head, emphasizing peak development)*
+### Triceps (Minor)
+1. **Rope Pushdowns – (Triceps Lateral Head (1), Triceps Medial Head (1))**
+   * *(3 sets of 12 reps, focus on contraction)*
+   * *(Isolates triceps for detail and definition)*
 
-3. **Spider Curls (EZ Bar or Dumbbell) – (Biceps Short Head, Forearm Stabilizers)**
-    - *(Superset with Incline Dumbbell Curls – 3 Sets of 10 reps each)*
-    - *(Ensures full biceps contraction with constant tension for maximum pump)*
+2. **Overhead Triceps Extension – (Triceps Long Head (1))**
+   * *(3 sets of 12 reps, full stretch at bottom)*
+   * *(Targets long head for complete tricep development)*
 
-4. **Preacher Curl (Machine or Dumbbell) – (Biceps Short Head, Forearm Stabilizers)**
-    - *(Drop Set on the last set, reduce weight and go to failure)*
-    - *(Strict movement for focused biceps contraction, enhancing the peak look)*
+## Wednesday: Chest (Minor), Back (Major), Thigh (Minor)
 
-### **🔥 Shoulders (Minor) – Stability & Isolation (Supersets)**
-5. **Seated Dumbbell Lateral Raises – (Middle Delts, Traps)**
-    - *(Superset with Cable Lateral Raises – 3 Sets of 12 reps each)*
-    - *(Builds shoulder width and improves delt separation)*
+### Chest (Minor)
+1. **Flat Dumbbell Press – (Middle Chest (3), Triceps (4))**
+   * *(3 sets of 12 reps, focus on stretch)*
+   * *(Maintains chest size and strength)*
 
-6. **Cable Lateral Raises – (Middle Delts, Stabilizers)**
-    - *(Superset with Seated Dumbbell Lateral Raises – 3 Sets of 10 reps each)*
-    - *(Provides a more controlled and isolated movement for constant tension)*
+2. **Incline Cable Flys – (Upper Chest (2))**
+   * *(3 sets of 15 reps, squeeze at peak)*
+   * *(Enhanced upper chest detail)*
 
-### **🔥 Triceps (Minor) – Strength & Finishing Touches**
-7. **Close-Grip Bench Press – (Triceps, Chest, Front Delts)**
-    - *(3 Sets of 8-10 reps, progressive overload focus)*
-    - *(Great for triceps mass and pressing power)*
+3. **Dumbbell Pullover – (Lower Chest (3), Serratus (1), Lats (2))**
+   * *(3 sets of 12 reps, full stretch)*
+   * *(Chest expansion and serratus development)*
 
-8. **Overhead Dumbbell Triceps Extensions – (Triceps Long Head, Stabilizers)**
-    - *(Drop Set on the last set, reduce weight and go to failure)*
-    - *(Best for long head activation, creating full-arm thickness)*
+### Back (Major)
+1. **Bent-Over Barbell Rows – (Overall Back, Lats (3), Middle Back (1))**
+   * *(Pyramid Set: 12→10→8→6 reps, increasing weight)*
+   * *(Primary thickness builder for back development)*
 
----
+2. **Pull-Ups + T-Bar Row – (Lats (4), Middle Back (2))**
+   * *(Superset: 3 sets to failure + 12 reps T-Bar)*
+   * *(Combines vertical and horizontal pulling for complete back development)*
 
-## **🔹 FRIDAY – CHEST (MINOR) + BACK (MINOR) + THIGHS (MAJOR)**
-### **🔥 Thighs (Major) – Heavy Strength & Mass (Pyramid & Combo Sets)**
-1. **Barbell Back Squats – (Quadriceps, Glutes, Hamstrings, Core)**
-    - *(Pyramid Set: 12, 10, 8, 6 reps increasing weight)*
-    - *(Ultimate lower body mass and strength builder)*
+3. **Seated Cable Row – (Middle Back (3), Lats (5))**
+   * *(Drop Set: 10 reps, drop 20% twice)*
+   * *(Refines back detail and enhances thickness)*
 
-2. **Romanian Deadlifts – (Hamstrings, Glutes, Lower Back, Core)**
-    - *(3 Sets of 8-10 reps, focusing on the eccentric phase)*
-    - *(Best for hamstring development and posterior chain strength)*
+4. **Lat Pulldown to Straight-Arm Pulldown – (Lats (6), Lower Back (1))**
+   * *(Combo: 3 sets of 10 reps each position)*
+   * *(Complete lat exhaustion for maximum width)*
 
-3. **Leg Press (Feet High & Wide) – (Glutes, Hamstrings, Adductors, Quads)**
-    - *(Drop Set on the last set, reduce weight and go to failure)*
-    - *(Great for full-leg engagement and finishing lower body power moves)*
+### Thigh (Minor)
+1. **Romanian Deadlifts – (Hamstrings (1), Lower Back (2))**
+   * *(3 sets of 12 reps, focus on stretch)*
+   * *(Maintains posterior chain strength)*
 
-4. **Bulgarian Split Squats (Dumbbells) – (Glutes, Quads, Hamstrings)**
-    - *(3 Sets of 10 reps per leg, controlled movement)*
-    - *(Enhances single-leg strength and stability for functional gains)*
+2. **Seated Calf Raises – (Soleus (1))**
+   * *(3 sets of 20 reps, slow tempo)*
+   * *(Develops lower calf definition)*
 
-### **🔥 Chest (Minor) – Strength & Hypertrophy**
-5. **Flat Dumbbell Press – (Middle Chest, Triceps, Front Delts)**
-    - *(3 Sets of 12 reps each)*
-    - *(Builds overall chest mass with increased range of motion)*
+## Thursday: Shoulder (Minor), Biceps (Major), Triceps (Minor)
 
-6. **Cable Flys (Low-to-High) – (Upper Chest, Serratus Anterior)**
-    - *(Superset with Push-Ups – 3 Sets of 12 reps each)*
-    - *(Great for deep chest activation and finishing the pump)*
+### Shoulder (Minor)
+1. **Dumbbell Shoulder Press – (All Deltoid Heads, Front Delts (5), Middle Delts (4), Rear Delts (3))**
+   * *(3 sets of 12 reps, controlled descent)*
+   * *(Maintains shoulder strength and stability)*
 
-### **🔥 Back (Minor) – Thickness & Width Focus**
-7. **Chest-Supported Rows – (Lats, Mid Back, Rear Delts)**
-    - *(3 Sets of 12 reps each)*
-    - *(Strict movement focusing on mid-back thickness and lat activation)*
+2. **Reverse Butterfly – (Rear Delts (4))**
+   * *(3 sets of 15 reps, focus on squeeze)*
+   * *(Balances shoulder development)*
 
-8. **Lat Pulldown (Close-Grip) – (Lats, Biceps, Rear Delts)**
-    - *(Drop Set on the last set, reduce weight and go to failure)*
-    - *(Enhances back width and pulling strength)*
+### Biceps (Major)
+1. **Barbell Curl – (Overall Biceps, Biceps Short Head (2), Biceps Long Head (3))**
+   * *(Pyramid Set: 12→10→8→6 reps, increasing weight)*
+   * *(Primary mass builder for biceps)*
 
----
+2. **Preacher Curl + Hammer Curls – (Biceps Short Head (3), Brachialis (2))**
+   * *(Superset: 3 sets of 12 reps each)*
+   * *(Targets peak and thickness simultaneously)*
 
-## **🔹 SATURDAY – SHOULDERS (MINOR) + BICEPS (MINOR) + TRICEPS (MAJOR)**
-### **🔥 Triceps (Major) – Mass & Definition (Supersets & Drop Sets)**
-1. **Close-Grip Bench Press – (Triceps, Chest, Front Delts)**
-    - *(Pyramid Set: 12, 10, 8, 6 reps increasing weight)*
-    - *(Best for pressing power and overall triceps mass)*
+3. **Cable Curl – (Overall Biceps, Biceps Short Head (4), Biceps Long Head (4))**
+   * *(Drop Set: 10 reps, drop 20% twice)*
+   * *(Maintains constant tension for growth)*
 
-2. **Skull Crushers (EZ Bar) – (Triceps Long Head, Medial Head)**
-    - *(Drop Set on the last set, reduce weight and go to failure)*
-    - *(Essential for deep triceps engagement and arm thickness)*
+4. **Concentration Curl to Reverse Curl – (Biceps Peak, Brachialis (3))**
+   * *(Combo: 3 sets of 10 reps each position)*
+   * *(Complete bicep exhaustion)*
 
-3. **Cable Rope Pushdowns – (Triceps Lateral & Medial Head)**
-    - *(Superset with Reverse-Grip Pushdowns – 3 Sets of 12 reps each)*
-    - *(Great for shaping and defining the triceps muscles)*
+### Triceps (Minor)
+1. **Close Grip Bench Press – (All Three Heads, Triceps All Heads (5))**
+   * *(3 sets of 12 reps, moderate weight)*
+   * *(Maintains overall tricep strength)*
 
-4. **Reverse-Grip Pushdowns – (Triceps, Forearms)**
-    - *(Superset with Cable Rope Pushdowns – 3 Sets of 10 reps each)*
-    - *(Ensures full range of motion and constant triceps tension)*
+2. **Dips – (Triceps All Three Heads (6), Lower Chest (4))**
+   * *(3 sets to failure, lean forward)*
+   * *(Bodyweight control and strength)*
 
-### **🔥 Shoulders (Minor) – Definition & Isolation**
-5. **Arnold Press – (Front Delts, Middle Delts, Traps, Triceps)**
-    - *(3 Sets of 10 reps, controlled motion)*
-    - *(Great for full shoulder activation and mobility)*
+## Friday: Chest (Minor), Back (Minor), Thigh (Major)
 
-6. **Dumbbell Rear Delt Flys – (Rear Delts, Traps, Rhomboids)**
-    - *(Superset with Cable Face Pulls – 3 Sets of 12 reps each)*
-    - *(Essential for posture correction and rear delt activation)*
+### Chest (Minor)
+1. **Dumbbell Pullover – (Upper Chest (3), Serratus (2), Lats (7))**
+   * *(3 sets of 12 reps, full stretch)*
+   * *(Maintains upper body flexibility)*
 
-7. **Cable Face Pulls – (Rear Delts, Upper Traps, Rotator Cuff)**
-    - *(Superset with Rear Delt Flys – 3 Sets of 10 reps each)*
-    - *(Keeps shoulders healthy and balanced)*
+2. **Push-ups – (Overall Chest)**
+   * *(3 sets to failure, varied hand position)*
+   * *(Maintains functional strength)*
 
-### **🔥 Biceps (Minor) – Pump & Strength Focus**
-8. **Concentration Curls – (Biceps Short Head, Forearms)**
-    - *(3 Sets of 12 reps each, slow eccentric phase)*
-    - *(Strict movement for peak contraction and arm shape)*
+3. **Decline Dumbbell Press – (Lower Chest (5), Triceps (7))**
+   * *(3 sets of 12 reps, controlled negative)*
+   * *(Maintains lower chest development)*
 
-9. **Reverse Curls (EZ Bar) – (Biceps Brachialis, Forearms)**
-    - *(Drop Set on the last set, reduce weight and go to failure)*
-    - *(Develops forearm and biceps thickness for a balanced look)*
 
----
+### Back (Minor)
+1. **Single-arm Dumbbell Row – (Lats (8), Middle Back (4))**
+   * *(3 sets of 12 reps each side)*
+   * *(Maintains unilateral strength)*
 
-🔥 **Final Note:** The **strategic use of supersets, drop sets, pyramid sets, and combo movements** ensures **muscle confusion, progressive overload, and constant gains.** This plan balances **strength, hypertrophy, and endurance** for **maximum muscle development.**
+2. **Hyperextensions – (Lower Back (3))**
+   * *(3 sets of 15 reps, controlled movement)*
+   * *(Supports spine health and stability)*
 
-💪 **LET’S BUILD STRENGTH & SIZE! 🔥🔥🔥**
+### Thigh (Major)
+1. **Barbell Back Squat – (Overall Legs, Quads (2), Glutes (2), Lower Back (4))**
+   * *(Pyramid Set: 12→10→8→6 reps, increasing weight)*
+   * *(Primary leg mass builder)*
+
+2. **Leg Press + Bulgarian Split Squats – (Quads (3), Glutes (3))**
+   * *(Superset: 12 reps leg press + 10 reps per leg BSS)*
+   * *(Combines power and unilateral stability)*
+
+3. **Hack Squat – (Quads (4), Glutes (4))**
+   * *(Drop Set: 10 reps, drop 20% twice)*
+   * *(Deep muscle fiber recruitment)*
+
+4. **Squat to Calf Raise – (Full Legs, Quads (5), Calves (2))**
+   * *(Combo: 3 sets of 10 reps each position)*
+   * *(Complete leg exhaustion)*
+
+## Saturday: Shoulder (Minor), Biceps (Minor), Triceps (Major)
+
+### Shoulder (Minor)
+1. **Arnold Press – (All Deltoid Heads, Front Delts (6), Middle Delts (5), Triceps (8))**
+   * *(3 sets of 12 reps, full rotation)*
+   * *(Maintains shoulder mobility and strength)*
+
+2. **Lateral Raises – (Middle Delts (6))**
+   * *(3 sets of 15 reps, strict form)*
+   * *(Maintains shoulder width)*
+
+### Biceps (Minor)
+1. **Incline Dumbbell Curl – (Biceps Long Head (5))**
+   * *(3 sets of 12 reps, full stretch)*
+   * *(Maintains bicep peak)*
+
+2. **Reverse Cable Curl – (Brachialis (4), Forearms (1))**
+   * *(3 sets of 12 reps, controlled tempo)*
+   * *(Maintains forearm development)*
+
+### Triceps (Major)
+1. **Close Grip Bench Press – (All Three Heads, Triceps All Heads (9))**
+   * *(Pyramid Set: 12→10→8→6 reps, increasing weight)*
+   * *(Primary tricep mass builder)*
+
+2. **Skull Crushers + Tricep Pushdown – (Triceps Long Head (2), Triceps Lateral Head (2))**
+   * *(Superset: 3 sets of 12 reps each)*
+   * *(Combines stretch and contraction focus)*
+
+3. **Overhead Triceps Extension – (Triceps Long Head (3))**
+   * *(Drop Set: 10 reps, drop 20% twice)*
+   * *(Maximum long head development)*
+
+4. **Pushdown to Kickback – (All Three Heads, Triceps All Heads (10))**
+   * *(Combo: 3 sets of 10 reps each position)*
+   * *(Complete tricep exhaustion)*
+
+### Training Notes:
+- Rest 60-90 seconds between regular sets
+- For supersets, rest 90-120 seconds after completing both exercises
+- For drop sets, no rest between drops, then 2-3 minutes before next exercise
+- For pyramid sets, rest 90-120 seconds between sets
+- Stay hydrated and maintain proper form throughout
+- Consider taking Sunday as a complete rest day
+- Adjust weights based on your strength level and recovery capacity

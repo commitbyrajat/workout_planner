@@ -18,7 +18,10 @@ Drop Set: Reduce weight & continue after failure
 Pyramid Set: Increase or decrease weight each set
 Combo: One movement flows into another
 
+Also, Mention the number of times each muscle is getting trained. Mention the increasing count in each excersise like Flat Bench Press - Barbell – (Middle Chest (1), Triceps (1))
 
+Define utility of every workout major/minor workout session like Strength & Hypertrophy, Compound & Stability Focus, Strength & Peak Focus, Definition & Strength, Compound Strength & Muscle Building etc.
+ 
 
 
 Shoulder
