@@ -29,7 +29,7 @@
 * Maintains leg strength without excessive fatigue
 
 #### 7. Cable Crossover – (Middle Chest (2), Lower Chest (2)) [MAJOR]
-* Drop Set: Start heavy 8 reps, drop 20% twice
+* **Drop Set**: Start heavy 8 reps, drop 20% twice
 * Excellent for chest isolation and peak contraction
 
 #### 8. Standing Calf Raises – (Gastrocnemius (1)) [MINOR]
@@ -49,7 +49,7 @@
 * Builds foundational bicep strength
 
 #### 3. Dumbbell Lateral Raise + Upright Row – (Middle Delts (2), Front Delts (3)) [MAJOR]
-* Superset: 3 sets of 12 reps each
+* **Superset**: 3 sets of 12 reps each
 * Targets shoulder width and front delt power
 
 #### 4. Rope Pushdowns – (Triceps Lateral Head (1), Triceps Medial Head (1)) [MINOR]
@@ -57,7 +57,7 @@
 * Isolates triceps for detail and definition
 
 #### 5. Cable Face Pull – (Rear Delts (2), Upper Back (3)) [MAJOR]
-* Drop Set: 12 reps, drop 20% twice
+* **Drop Set**: 12 reps, drop 20% twice
 * Builds rear delt thickness and improves posture
 
 #### 6. Hammer Curls – (Biceps Long Head (2), Brachialis (1)) [MINOR]
@@ -65,7 +65,7 @@
 * Develops arm thickness and forearm strength
 
 #### 7. Front Raise to Lateral Raise – (Front Delts (4), Middle Delts (3)) [MAJOR]
-* Combo: 3 sets of 10 reps each position
+* **Combo**: 3 sets of 10 reps each position
 * Complete deltoid exhaustion for maximum growth
 
 #### 8. Overhead Triceps Extension – (Triceps Long Head (1)) [MINOR]
@@ -85,7 +85,7 @@
 * Maintains chest size and strength
 
 #### 3. Pull-Ups + T-Bar Row – (Lats (4), Middle Back (2)) [MAJOR]
-* Superset: 3 sets to failure + 12 reps T-Bar
+* **Superset**: 3 sets to failure + 12 reps T-Bar
 * Combines vertical and horizontal pulling for complete back development
 
 #### 4. Incline Cable Flys – (Upper Chest (2)) [MINOR]
@@ -93,7 +93,7 @@
 * Enhanced upper chest detail
 
 #### 5. Seated Cable Row – (Middle Back (3), Lats (5)) [MAJOR]
-* Drop Set: 10 reps, drop 20% twice
+* **Drop Set**: 10 reps, drop 20% twice
 * Refines back detail and enhances thickness
 
 #### 6. Romanian Deadlifts – (Hamstrings (1), Lower Back (2)) [MINOR]
@@ -101,7 +101,7 @@
 * Maintains posterior chain strength
 
 #### 7. Lat Pulldown to Straight-Arm Pulldown – (Lats (6), Lower Back (1)) [MAJOR]
-* Combo: 3 sets of 10 reps each position
+* **Combo**: 3 sets of 10 reps each position
 * Complete lat exhaustion for maximum width
 
 #### 8. Seated Calf Raises – (Soleus (1)) [MINOR]
@@ -121,7 +121,7 @@
 * Maintains shoulder strength and stability
 
 #### 3. Preacher Curl + Hammer Curls – (Biceps Short Head (3), Brachialis (2)) [MAJOR]
-* Superset: 3 sets of 12 reps each
+* **Superset**: 3 sets of 12 reps each
 * Targets peak and thickness simultaneously
 
 #### 4. Close Grip Bench Press – (All Three Heads, Triceps All Heads (5)) [MINOR]
@@ -129,7 +129,7 @@
 * Maintains overall tricep strength
 
 #### 5. Cable Curl – (Overall Biceps, Biceps Short Head (4), Biceps Long Head (4)) [MAJOR]
-* Drop Set: 10 reps, drop 20% twice
+* **Drop Set**: 10 reps, drop 20% twice
 * Maintains constant tension for growth
 
 #### 6. Reverse Butterfly – (Rear Delts (4)) [MINOR]
@@ -137,7 +137,7 @@
 * Balances shoulder development
 
 #### 7. Concentration Curl to Reverse Curl – (Biceps Peak, Brachialis (3)) [MAJOR]
-* Combo: 3 sets of 10 reps each position
+* **Combo**: 3 sets of 10 reps each position
 * Complete bicep exhaustion
 
 #### 8. Dips – (Triceps All Three Heads (6), Lower Chest (4)) [MINOR]
@@ -157,7 +157,7 @@
 * Maintains upper body flexibility
 
 #### 3. Leg Press + Bulgarian Split Squats – (Quads (3), Glutes (3)) [MAJOR]
-* Superset: 12 reps leg press + 10 reps per leg BSS
+* **Superset**: 12 reps leg press + 10 reps per leg BSS
 * Combines power and unilateral stability
 
 #### 4. Single-arm Dumbbell Row – (Lats (8), Middle Back (4)) [MINOR]
@@ -165,7 +165,7 @@
 * Maintains unilateral strength
 
 #### 5. Hack Squat – (Quads (4), Glutes (4)) [MAJOR]
-* Drop Set: 10 reps, drop 20% twice
+* **Drop Set**: 10 reps, drop 20% twice
 * Deep muscle fiber recruitment
 
 #### 6. Push-ups – (Overall Chest) [MINOR]
@@ -173,7 +173,7 @@
 * Maintains functional strength
 
 #### 7. Squat to Calf Raise – (Full Legs, Quads (5), Calves (2)) [MAJOR]
-* Combo: 3 sets of 10 reps each position
+* **Combo**: 3 sets of 10 reps each position
 * Complete leg exhaustion
 
 #### 8. Hyperextensions – (Lower Back (3)) [MINOR]
@@ -193,7 +193,7 @@
 * Maintains shoulder mobility and strength
 
 #### 3. Skull Crushers + Tricep Pushdown – (Triceps Long Head (2), Triceps Lateral Head (2)) [MAJOR]
-* Superset: 3 sets of 12 reps each
+* **Superset**: 3 sets of 12 reps each
 * Combines stretch and contraction focus
 
 #### 4. Incline Dumbbell Curl – (Biceps Long Head (5)) [MINOR]
@@ -201,7 +201,7 @@
 * Maintains bicep peak
 
 #### 5. Overhead Triceps Extension – (Triceps Long Head (3)) [MAJOR]
-* Drop Set: 10 reps, drop 20% twice
+* **Drop Set**: 10 reps, drop 20% twice
 * Maximum long head development
 
 #### 6. Lateral Raises – (Middle Delts (6)) [MINOR]
@@ -209,7 +209,7 @@
 * Maintains shoulder width
 
 #### 7. Pushdown to Kickback – (All Three Heads, Triceps All Heads (10)) [MAJOR]
-* Combo: 3 sets of 10 reps each position
+* **Combo**: 3 sets of 10 reps each position
 * Complete tricep exhaustion
 
 #### 8. Reverse Cable Curl – (Brachialis (4), Forearms (1)) [MINOR]
