@@ -1,4 +1,4 @@
-# Detailed 6-Day Split Workout Plan
+# Enhanced 6-Day Split Workout Plan
 
 ## Monday: Chest (Major), Back (Minor)
 **Focus: Strength & Hypertrophy**
@@ -37,6 +37,10 @@
 * 3 sets of 12 reps per arm
 * Improves mind-muscle connection and corrects imbalances
 
+#### 9. Dumbbell Flyes – (Middle Chest (3), Upper Chest (2)) [MAJOR]
+* 4 sets of 12 reps, focus on stretch and contraction
+* Isolates chest fibers for maximum expansion and detail
+
 ## Tuesday: Biceps (Major), Triceps (Minor)
 **Focus: Peak Development & Muscle Separation**
 
@@ -73,6 +77,10 @@
 #### 8. Dumbbell Triceps Kickback – (Triceps Lateral Head (3)) [MINOR]
 * 3 sets of 12 reps, squeeze at extension
 * Enhances tricep definition and muscle isolation
+
+#### 9. EZ-Bar Spider Curls – (Short Head (4), Peak Focus) [MAJOR]
+* 4 sets of 10-12 reps, maximum contraction
+* Advanced peak development with intense short head focus
 
 ## Wednesday: Shoulder (Major), Thigh (Minor)
 **Focus: Width Development & Functional Strength**
@@ -111,6 +119,10 @@
 * 3 sets of 20 reps, full range of motion
 * Develops calf endurance and size
 
+#### 9. Arnold Press – (Front Delts (5), Middle Delts (4), Rear Delts (5)) [MAJOR]
+* 4 sets of 10-12 reps, full rotation
+* Comprehensive shoulder development with rotational element
+
 ## Thursday: Chest (Minor), Back (Major)
 **Focus: Compound & Stability Strength**
 
@@ -147,6 +159,10 @@
 #### 8. Dumbbell Pullover – (Lower Chest (3), Serratus (1), Lats (8)) [MINOR]
 * 3 sets of 12 reps, full stretch
 * Improves chest-back tie-in and thoracic expansion
+
+#### 9. Deadlift – (Lower Back (4), Traps (1), Lats (9)) [MAJOR]
+* 4 sets of 8-10 reps, focus on form
+* Compound movement for overall back strength and development
 
 ## Friday: Biceps (Minor), Triceps (Major)
 **Focus: Strength & Peak Focus**
@@ -185,6 +201,10 @@
 * 3 sets of 12 reps, controlled tempo
 * Develops forearm detail and grip strength
 
+#### 9. Dips – (Triceps Long Head (6), Triceps Lateral Head (7)) [MAJOR]
+* 4 sets to failure, focus on triceps engagement
+* Compound movement for overall tricep mass and strength
+
 ## Saturday: Shoulder (Minor), Thigh (Major)
 **Focus: Definition & Power**
 
@@ -222,6 +242,11 @@
 * 3 sets of 12 reps each side
 * Improves mind-muscle connection and shoulder symmetry
 
+#### 9. Leg Extension + Leg Curl – (Quads (7), Hamstrings (2)) [MAJOR]
+* **Superset**: 4 sets of 12 reps each exercise
+* Complete isolation of both quad and hamstring muscles. Focus on full contraction at peak of each movement.
+* Balanced anterior and posterior leg development
+
 ## Training Notes:
 * Rest 60-90 seconds between regular sets
 * For **Superset**s, rest 90-120 seconds after completing both exercises
@@ -231,14 +256,15 @@
 * Consider taking Sunday as a complete rest day
 * Adjust weights based on your strength level and recovery capacity
 
-## Muscle Training Frequency:
-* Chest: 8 times (4 major, 4 minor)
-* Back: 8 times (4 major, 4 minor)
-* Shoulders: 10 times (4 major, 6 minor)
-* Biceps: 8 times (4 major, 4 minor)
-* Triceps: 9 times (4 major, 5 minor)
-* Legs/Thighs: 8 times (4 major, 4 minor)
-* Calves: 2 times
+## Updated Muscle Training Frequency:
+* Chest: 9 times (5 major, 4 minor)
+* Back: 9 times (5 major, 4 minor)
+* Shoulders: 11 times (5 major, 6 minor)
+* Biceps: 9 times (5 major, 4 minor)
+* Triceps: 10 times (5 major, 5 minor)
+* Legs/Thighs: 9 times (5 major, 4 minor)
+* Hamstrings: 3 times (1 major, 2 minor)
+* Calves: 2 times 
 * Forearms: 1 time
 
-This program provides balanced development with appropriate volume and frequency for all major muscle groups while prioritizing recovery between sessions.
+This enhanced program provides balanced development with appropriate volume and frequency for all major muscle groups while prioritizing recovery between sessions. The addition of one major exercise per day increases the total volume without compromising the structure of the original plan.
