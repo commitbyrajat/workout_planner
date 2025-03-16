@@ -1,6 +1,30 @@
 # Comprehensive Vegetarian Diet Plan for Weight Loss & Recovery
 *Designed for Delhi, India with focus on heart health, liver function, and workout recovery*
 
+## Program Timeline
+- **Start Date**: Monday, 17th March, 2025
+- **End Date**: Sunday, 11th May, 2025
+- **Total Duration**: 8 weeks (56 days)
+
+## Strict Prohibitions
+1. **Absolutely No Alcohol**: Complete elimination of all alcoholic beverages including beer, wine, spirits, and alcohol-based tonics
+2. **No Non-Vegetarian Food**: Strict adherence to vegetarian diet with no exceptions for fish, eggs, or any meat products
+3. **No Outside Food**: All meals must be home-cooked to ensure quality control, proper hygiene, and adherence to nutritional guidelines
+4. **No Processed Foods**: Avoid packaged snacks, ready-to-eat meals, and processed food items containing preservatives
+5. **No Added Sugar**: Eliminate white sugar, artificial sweeteners, and sugary products
+6. **No Refined Flour**: Avoid maida and all products made with white flour
+7. **No Carbonated Beverages**: Complete elimination of sodas and artificially flavored drinks
+
+## Weekly Progress Tracking (8-Week Program)
+- **Week 1 (March 17-23)**: Adaptation phase - Focus on establishing routine
+- **Week 2 (March 24-30)**: Metabolism boost - Expect initial weight loss
+- **Week 3 (March 31-April 6)**: Energy improvement - Notice increased stamina
+- **Week 4 (April 7-13)**: Mid-program assessment - Evaluate progress and adjust if needed
+- **Week 5 (April 14-20)**: Intensification - Peak fat-burning phase
+- **Week 6 (April 21-27)**: Liver detoxification focus - Support organ health
+- **Week 7 (April 28-May 4)**: Recovery optimization - Fine-tune nutrition for workouts
+- **Week 8 (May 5-11)**: Maintenance preparation - Transition to sustainable long-term habits
+
 ## Daily Schedule Overview
 - **4:30 AM (Pre-Workout)**: Hydration + light energy
 - **5:00 AM**: Gym workout
