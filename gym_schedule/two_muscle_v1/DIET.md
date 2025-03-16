@@ -108,7 +108,7 @@
 |-----------|-------------------|
 | Vegetable poha with peanuts | • Complex carbs restore glycogen stores<br>• Flattened rice is easy to digest<br>• Peanuts add protein and healthy fats<br>• Mixed vegetables provide diverse micronutrients |
 | 1 small bowl of yogurt with flaxseeds | • Probiotics support gut health and immunity<br>• Complete protein aids muscle recovery<br>• Flaxseeds provide omega-3 fatty acids for heart health<br>• Lignans in flax support liver function |
-| 5-6 soaked raisins | • Natural fruit sugar for energy<br>• Rich in iron and B vitamins<br>• Soaking increases mineral bioavailability<br>• Provides potassium for electrolyte balance |
+| Small handful of pomegranate | • Rich in antioxidants for recovery<br>• Supports nitric oxide production<br>• Anti-inflammatory properties<br>• Supports heart health |
 
 ### 11:30 AM (Pre-Lunch)
 | Food Item | Benefits & Effects |
@@ -156,11 +156,11 @@
 | Protein shake: 1 cup toned milk + 1/2 pear + 1 tbsp roasted ground flaxseeds | • Milk protein supports muscle recovery<br>• Pear provides fiber and quick carbs<br>• Flaxseeds add omega-3s for inflammation reduction<br>• Combination optimizes recovery window |
 
 ### 8:00 AM (Breakfast)
-| Food Item | Benefits & Effects |
-|-----------|-------------------|
-| Oats upma with vegetables | • Beta-glucan fiber reduces cholesterol<br>• Complex carbs restore glycogen<br>• Rich in B vitamins for energy metabolism<br>• Mixed vegetables add micronutrients |
-| 1 small bowl of mixed fruit salad | • Variety of antioxidants support recovery<br>• Natural sugars replenish energy<br>• Vitamin C aids collagen synthesis<br>• Enzymes support digestion |
-| 1 small glass of chaach | • Probiotics enhance gut health<br>• Protein supports muscle recovery<br>• Calcium supports bone health<br>• Cooling effect reduces metabolic heat |
+| Food Item                          | Benefits & Effects |
+|------------------------------------|-------------------|
+| Oats upma with vegetables          | • Beta-glucan fiber reduces cholesterol<br>• Complex carbs restore glycogen<br>• Rich in B vitamins for energy metabolism<br>• Mixed vegetables add micronutrients |
+| 1 small bowl of mixed fruit salad  (apple, orange, grapes, and pomegranate) | • Variety of antioxidants support recovery<br>• Natural sugars replenish energy<br>• Vitamin C aids collagen synthesis<br>• Enzymes support digestion |
+| 1 small glass of chaach            | • Probiotics enhance gut health<br>• Protein supports muscle recovery<br>• Calcium supports bone health<br>• Cooling effect reduces metabolic heat |
 
 ### 11:30 AM (Pre-Lunch)
 | Food Item | Benefits & Effects |
@@ -218,7 +218,7 @@
 ### 11:30 AM (Pre-Lunch)
 | Food Item | Benefits & Effects |
 |-----------|-------------------|
-| 1 small bowl of watermelon or papaya | • Watermelon: L-citrulline improves blood flow and recovery<br>• Papaya: Papain enzyme aids protein digestion<br>• Both provide hydration and natural sugars<br>• Rich in antioxidants and vitamin A |
+| 1 medium apple | • Provides fiber and quick carbs<br>• Quercetin has anti-inflammatory benefits<br>• Supports digestive health<br>• Natural sugars provide sustained energy |
 | 1 glass of salted lassi | • Probiotics support gut health<br>• Protein aids muscle recovery<br>• Salt replaces electrolytes lost during workout<br>• Cooling effect counteracts workout-generated heat |
 
 ### 2:00 PM (Lunch)
@@ -253,7 +253,7 @@
 | Food Item | Benefits & Effects |
 |-----------|-------------------|
 | 1 glass of water with lime juice and rock salt | • Electrolytes support hydration and muscle function<br>• Vitamin C aids collagen synthesis<br>• Alkalizes the body<br>• Stimulates digestive enzymes |
-| 1 small pear | • Quick energy from natural sugars<br>• High fiber content doesn't spike blood sugar<br>• Rich in vitamin K for recovery<br>• Contains copper for energy production |
+| 1 small apple | • Quick energy from natural sugars<br>• High fiber content doesn't spike blood sugar<br>• Contains antioxidants for recovery<br>• Supports digestive health |
 
 ### 6:30 AM (Post-Workout)
 | Food Item | Benefits & Effects |
@@ -285,7 +285,7 @@
 ### 4:00 PM (Snack)
 | Food Item | Benefits & Effects |
 |-----------|-------------------|
-| 1 small bowl of fruit chaat with chaat masala | • Variety of fruits provides diverse antioxidants<br>• Natural sugars for afternoon energy<br>• Vitamin C aids collagen synthesis<br>• Chaat masala adds digestive benefits |
+| 1 small bowl of fruit chaat with apple, orange, grapes and pomegranate | • Variety of fruits provides diverse antioxidants<br>• Natural sugars for afternoon energy<br>• Vitamin C aids collagen synthesis<br>• Chaat masala adds digestive benefits |
 | 1 cup green tea with ginger | • Catechins boost metabolism<br>• Ginger reduces muscle soreness<br>• Combination has anti-inflammatory effects<br>• Supports fat oxidation |
 
 ### 7:00 PM (Dinner)
@@ -306,13 +306,13 @@
 | Food Item | Benefits & Effects |
 |-----------|-------------------|
 | 1 glass of water with tulsi leaves | • Adaptogenic herb reduces workout stress<br>• Improves oxygen utilization<br>• Supports immune function<br>• Has natural anti-inflammatory properties |
-| 2 fresh plums | • Quick-digesting carbohydrates<br>• Rich in antioxidants that support recovery<br>• Vitamin C aids collagen synthesis<br>• Provides natural sugars for energy |
+| Handful of grapes | • Quick-digesting carbohydrates<br>• Rich in resveratrol for recovery<br>• Provides natural sugars for energy<br>• Easy to digest before workout |
 
 ### 6:30 AM (Post-Workout)
 | Food Item | Benefits & Effects |
 |-----------|-------------------|
 | 1 glass of chaach with mint and cumin | • Protein aids muscle recovery<br>• Probiotics support gut health<br>• Mint has cooling effect<br>• Cumin improves digestion and metabolism |
-| 1 medium-sized pear | • Provides post-workout carbohydrates<br>• Rich in fiber for digestive health<br>• Contains copper for energy production<br>• Potassium supports muscle function |
+| 1 medium-sized apple | • Provides post-workout carbohydrates<br>• Rich in fiber for digestive health<br>• Contains antioxidants for recovery<br>• Supports digestive health |
 
 ### 8:00 AM (Breakfast)
 | Food Item | Benefits & Effects |
@@ -360,7 +360,7 @@
 | Food Item | Benefits & Effects |
 |-----------|-------------------|
 | 1 small bowl of vegetable dalia with sprouts | • Broken wheat provides complex carbs<br>• Sprouts add bioavailable protein<br>• Combined effect supports muscle recovery<br>• Rich in B vitamins for energy metabolism |
-| 1 small bowl of cut fruits (apple, orange, papaya) | • Diverse antioxidants support recovery<br>• Papaya enzymes aid digestion<br>• Vitamin C supports immune function<br>• Natural sugars provide energy without insulin spike |
+| 1 small bowl of cut fruits (apple, orange, grapes, pomegranate) | • Diverse antioxidants support recovery<br>• Vitamin C supports immune function<br>• Natural sugars provide energy without insulin spike<br>• Variety provides different phytonutrients |
 | 1 small glass of warm milk with turmeric | • Protein supports muscle maintenance<br>• Calcium supports bone health<br>• Curcumin reduces inflammation<br>• Supports immune function on rest day |
 
 ### 11:00 AM (Mid-Morning)
