@@ -151,4 +151,23 @@ Glutes – For Power & Lower Body Strength
 - Barbell Hip Thrusts – (Best for glute hypertrophy & explosive strength)
 - Cable Kickbacks (Glute Focus) – (Isolates glutes, improving mind-muscle connection)
 - Bulgarian Split Squats (Dumbbell or Barbell) – (Targets glutes & improves unilateral strength and stability)
+
+
+Additionally
+
+### Multi Press Gym Machine Integration
+
+* **Chest Focus (Flat/Incline/Decline settings):**
+
+  * Machine Chest Press – (Middle Chest, Triceps, Front Delts)
+  * Incline Press (Machine) – (Upper Chest, Triceps, Front Delts)
+  * Decline Press (Machine) – (Lower Chest, Triceps)
+
+* **Shoulder Focus:**
+
+  * Multi Press Machine Shoulder Press – (Anterior Delt, Triceps)
+
+* **Triceps Focus:**
+
+  * Narrow Grip Chest Press (Machine) – (Triceps Long Head, Medial Head)
 ```
