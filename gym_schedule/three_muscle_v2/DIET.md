@@ -45,18 +45,18 @@ Using Mifflin-St Jeor Equation:
 
 ## DAY 1 (MONDAY - Chest Focus Day)
 
-### Meal 1: Pre-Workout (6:00 AM)
+### Meal 1: Early Morning Pre-Workout (4:30 AM)
 **Items:**
-- 4 whole eggs (scrambled) with 1 tbsp ghee
-- 3 slices whole wheat bread
+- 3 whole eggs + 2 egg whites (boiled/scrambled)
+- 2 slices white bread with honey
 - 1 banana (exception for pre-workout energy)
-- Black coffee
+- Black coffee (strong)
 
-**Calories:** 650 | **P:** 32g (20%) | **C:** 60g (37%) | **F:** 28g (43%)
+**Calories:** 480 | **P:** 28g (23%) | **C:** 52g (43%) | **F:** 18g (34%)
 
 ---
 
-### Meal 2: Post-Workout Breakfast (9:00 AM)
+### Meal 2: Post-Workout Breakfast (7:30 AM)
 **Items:**
 - 6 egg white omelette with 2 whole eggs, onions, tomatoes
 - 4 parathas (whole wheat) with 2 tbsp butter
@@ -67,7 +67,7 @@ Using Mifflin-St Jeor Equation:
 
 ---
 
-### Meal 3: Mid-Morning Snack (11:30 AM)
+### Meal 3: Mid-Morning Snack (10:00 AM)
 **Items:**
 - Chicken sandwich: 200g grilled chicken breast, 4 bread slices, mayonnaise
 - 1 glass full-fat milk with 2 tbsp protein powder
@@ -76,7 +76,7 @@ Using Mifflin-St Jeor Equation:
 
 ---
 
-### Meal 4: Lunch (2:00 PM)
+### Meal 4: Lunch (1:00 PM)
 **Items:**
 - 300g chicken curry (with gravy)
 - 3 cups cooked basmati rice
@@ -89,7 +89,7 @@ Using Mifflin-St Jeor Equation:
 
 ---
 
-### Meal 5: Evening Snack (5:00 PM)
+### Meal 5: Evening Snack (4:00 PM)
 **Items:**
 - 100g roasted peanuts
 - Boiled chickpeas chaat (150g) with spices
@@ -99,7 +99,7 @@ Using Mifflin-St Jeor Equation:
 
 ---
 
-### Meal 6: Dinner (8:30 PM)
+### Meal 6: Dinner (7:00 PM)
 **Items:**
 - 250g grilled fish (salmon/pomfret) with lemon
 - 4 rotis (whole wheat)
@@ -107,27 +107,37 @@ Using Mifflin-St Jeor Equation:
 - Palak paneer (150g)
 - Cucumber raita (200g)
 
-**Calories:** 900 | **P:** 82g (36%) | **C:** 85g (38%) | **F:** 26g (26%)
+**Calories:** 880 | **P:** 82g (37%) | **C:** 85g (39%) | **F:** 24g (24%)
 
 ---
 
-**DAY 1 TOTALS:** Calories: 4,100 | Protein: 367g (36%) | Carbs: 490g (48%) | Fat: 183g (16%)
+### Meal 7: Before Bed (9:15 PM)
+**Items:**
+- 2 scoops casein protein in 300ml milk
+- 30g almonds
+- 1 tbsp peanut butter
+
+**Calories:** 520 | **P:** 52g (40%) | **C:** 28g (22%) | **F:** 25g (38%)
+
+---
+
+**DAY 1 TOTALS:** Calories: 4,100 | Protein: 395g (39%) | Carbs: 485g (47%) | Fat: 160g (14%)
 
 ---
 
 ## DAY 2 (TUESDAY - Shoulder Focus Day)
 
-### Meal 1: Pre-Workout (6:00 AM)
+### Meal 1: Early Morning Pre-Workout (4:30 AM)
 **Items:**
 - 3 whole eggs + 3 egg whites (boiled)
 - 2 slices multigrain bread with peanut butter (2 tbsp)
 - Green tea
 
-**Calories:** 580 | **P:** 38g (26%) | **C:** 45g (31%) | **F:** 28g (43%)
+**Calories:** 520 | **P:** 35g (27%) | **C:** 42g (32%) | **F:** 24g (41%)
 
 ---
 
-### Meal 2: Post-Workout Breakfast (9:00 AM)
+### Meal 2: Post-Workout Breakfast (7:30 AM)
 **Items:**
 - Masala dosa (2 large) with potato filling
 - Coconut chutney (3 tbsp)
@@ -139,7 +149,7 @@ Using Mifflin-St Jeor Equation:
 
 ---
 
-### Meal 3: Mid-Morning Snack (11:30 AM)
+### Meal 3: Mid-Morning Snack (10:00 AM)
 **Items:**
 - Mutton keema sandwich (200g keema, 4 bread slices)
 - 1 glass chocolate milk (full-fat, 300ml)
@@ -148,7 +158,7 @@ Using Mifflin-St Jeor Equation:
 
 ---
 
-### Meal 4: Lunch (2:00 PM)
+### Meal 4: Lunch (1:00 PM)
 **Items:**
 - 300g butter chicken (with cream)
 - 3 cups jeera rice
@@ -161,7 +171,7 @@ Using Mifflin-St Jeor Equation:
 
 ---
 
-### Meal 5: Evening Snack (5:00 PM)
+### Meal 5: Evening Snack (4:00 PM)
 **Items:**
 - Protein shake: 300ml milk + 2 scoops whey protein + 2 tbsp peanut butter + 1 banana
 - 50g almonds
@@ -170,7 +180,7 @@ Using Mifflin-St Jeor Equation:
 
 ---
 
-### Meal 6: Dinner (8:30 PM)
+### Meal 6: Dinner (7:00 PM)
 **Items:**
 - 300g grilled chicken tikka
 - 4 butter naans
@@ -182,23 +192,32 @@ Using Mifflin-St Jeor Equation:
 
 ---
 
-**DAY 2 TOTALS:** Calories: 4,200 | Protein: 406g (39%) | Carbs: 512g (49%) | Fat: 171g (12%)
+### Meal 7: Before Bed (9:15 PM)
+**Items:**
+- 2 scoops casein protein in 250ml milk
+- 40g walnuts
+
+**Calories:** 480 | **P:** 48g (40%) | **C:** 25g (21%) | **F:** 21g (39%)
+
+---
+
+**DAY 2 TOTALS:** Calories: 4,220 | Protein: 414g (39%) | Carbs: 504g (48%) | Fat: 184g (13%)
 
 ---
 
 ## DAY 3 (WEDNESDAY - Back Focus Day)
 
-### Meal 1: Pre-Workout (6:00 AM)
+### Meal 1: Early Morning Pre-Workout (4:30 AM)
 **Items:**
 - 4 whole eggs (omelette) with cheese (50g)
-- 3 slices brown bread
+- 2 slices brown bread
 - Black coffee with cream
 
-**Calories:** 620 | **P:** 38g (24%) | **C:** 48g (31%) | **F:** 31g (45%)
+**Calories:** 560 | **P:** 35g (25%) | **C:** 38g (27%) | **F:** 30g (48%)
 
 ---
 
-### Meal 2: Post-Workout Breakfast (9:00 AM)
+### Meal 2: Post-Workout Breakfast (7:30 AM)
 **Items:**
 - Poha (flattened rice, 3 cups) with peanuts and potatoes
 - 200g paneer tikka
@@ -209,7 +228,7 @@ Using Mifflin-St Jeor Equation:
 
 ---
 
-### Meal 3: Mid-Morning Snack (11:30 AM)
+### Meal 3: Mid-Morning Snack (10:00 AM)
 **Items:**
 - Tuna sandwich: 200g canned tuna, 4 bread slices, mayonnaise
 - 1 glass banana shake (300ml milk, 1 banana, honey)
@@ -218,7 +237,7 @@ Using Mifflin-St Jeor Equation:
 
 ---
 
-### Meal 4: Lunch (2:00 PM)
+### Meal 4: Lunch (1:00 PM)
 **Items:**
 - 300g mutton rogan josh
 - 3 cups biryani rice (vegetable)
@@ -231,7 +250,7 @@ Using Mifflin-St Jeor Equation:
 
 ---
 
-### Meal 5: Evening Snack (5:00 PM)
+### Meal 5: Evening Snack (4:00 PM)
 **Items:**
 - 100g cashews
 - Paneer pakora (6 pieces, 200g)
@@ -241,7 +260,7 @@ Using Mifflin-St Jeor Equation:
 
 ---
 
-### Meal 6: Dinner (8:30 PM)
+### Meal 6: Dinner (7:00 PM)
 **Items:**
 - 250g tandoori prawns
 - 4 rotis with 2 tbsp butter
@@ -253,24 +272,33 @@ Using Mifflin-St Jeor Equation:
 
 ---
 
-**DAY 3 TOTALS:** Calories: 4,200 | Protein: 364g (35%) | Carbs: 522g (50%) | Fat: 186g (15%)
+### Meal 7: Before Bed (9:15 PM)
+**Items:**
+- 2 scoops casein protein in 300ml milk
+- 35g mixed nuts (almonds, walnuts)
+
+**Calories:** 500 | **P:** 50g (40%) | **C:** 28g (22%) | **F:** 21g (38%)
+
+---
+
+**DAY 3 TOTALS:** Calories: 4,240 | Protein: 389g (37%) | Carbs: 515g (49%) | Fat: 170g (14%)
 
 ---
 
 ## DAY 4 (THURSDAY - Biceps Focus Day)
 
-### Meal 1: Pre-Workout (6:00 AM)
+### Meal 1: Early Morning Pre-Workout (4:30 AM)
 **Items:**
 - 5 whole eggs (bhurji style) with 1 tbsp butter
 - 2 slices white bread
 - 1 small banana
 - Black coffee
 
-**Calories:** 640 | **P:** 35g (22%) | **C:** 52g (32%) | **F:** 33g (46%)
+**Calories:** 600 | **P:** 32g (21%) | **C:** 48g (32%) | **F:** 31g (47%)
 
 ---
 
-### Meal 2: Post-Workout Breakfast (9:00 AM)
+### Meal 2: Post-Workout Breakfast (7:30 AM)
 **Items:**
 - Aloo paratha (3 large) with 3 tbsp butter
 - 200g chicken sausages (grilled)
@@ -281,7 +309,7 @@ Using Mifflin-St Jeor Equation:
 
 ---
 
-### Meal 3: Mid-Morning Snack (11:30 AM)
+### Meal 3: Mid-Morning Snack (10:00 AM)
 **Items:**
 - Egg bhurji sandwich: 6 eggs, 4 bread slices, cheese
 - 1 glass mango lassi (300ml)
@@ -290,7 +318,7 @@ Using Mifflin-St Jeor Equation:
 
 ---
 
-### Meal 4: Lunch (2:00 PM)
+### Meal 4: Lunch (1:00 PM)
 **Items:**
 - 300g fish curry (rohu/katla)
 - 3 cups steamed rice
@@ -303,7 +331,7 @@ Using Mifflin-St Jeor Equation:
 
 ---
 
-### Meal 5: Evening Snack (5:00 PM)
+### Meal 5: Evening Snack (4:00 PM)
 **Items:**
 - 2 scoops whey protein in 400ml milk
 - 80g mixed nuts (walnuts, almonds, pistachios)
@@ -313,7 +341,7 @@ Using Mifflin-St Jeor Equation:
 
 ---
 
-### Meal 6: Dinner (8:30 PM)
+### Meal 6: Dinner (7:00 PM)
 **Items:**
 - 300g chicken keema (minced) with peas
 - 4 missi rotis (chickpea flour rotis)
@@ -325,23 +353,33 @@ Using Mifflin-St Jeor Equation:
 
 ---
 
-**DAY 4 TOTALS:** Calories: 4,300 | Protein: 386g (36%) | Carbs: 531g (49%) | Fat: 182g (15%)
+### Meal 7: Before Bed (9:15 PM)
+**Items:**
+- 2 scoops casein protein in 300ml milk
+- 1 tbsp almond butter
+- 30g almonds
+
+**Calories:** 540 | **P:** 52g (39%) | **C:** 30g (22%) | **F:** 23g (39%)
+
+---
+
+**DAY 4 TOTALS:** Calories: 4,300 | Protein: 407g (38%) | Carbs: 522g (48%) | Fat: 166g (14%)
 
 ---
 
 ## DAY 5 (FRIDAY - Leg Focus Day)
 
-### Meal 1: Pre-Workout (6:00 AM)
+### Meal 1: Early Morning Pre-Workout (4:30 AM)
 **Items:**
 - 4 whole eggs + 2 egg whites (boiled)
-- 3 slices multigrain bread with jam
+- 2 slices multigrain bread with jam
 - Green tea with honey
 
-**Calories:** 600 | **P:** 36g (24%) | **C:** 58g (39%) | **F:** 25g (37%)
+**Calories:** 540 | **P:** 33g (24%) | **C:** 52g (39%) | **F:** 20g (37%)
 
 ---
 
-### Meal 2: Post-Workout Breakfast (9:00 AM)
+### Meal 2: Post-Workout Breakfast (7:30 AM)
 **Items:**
 - Upma (semolina, 3 cups) with vegetables
 - 200g grilled chicken breast
@@ -352,7 +390,7 @@ Using Mifflin-St Jeor Equation:
 
 ---
 
-### Meal 3: Mid-Morning Snack (11:30 AM)
+### Meal 3: Mid-Morning Snack (10:00 AM)
 **Items:**
 - Chicken tikka wrap: 200g chicken, 2 large tortillas, mayonnaise
 - 1 glass chocolate milk (300ml)
@@ -361,7 +399,7 @@ Using Mifflin-St Jeor Equation:
 
 ---
 
-### Meal 4: Lunch (2:00 PM)
+### Meal 4: Lunch (1:00 PM)
 **Items:**
 - 300g mutton curry (with bones)
 - 3 cups dal khichdi (lentil-rice)
@@ -374,7 +412,7 @@ Using Mifflin-St Jeor Equation:
 
 ---
 
-### Meal 5: Evening Snack (5:00 PM)
+### Meal 5: Evening Snack (4:00 PM)
 **Items:**
 - Besan chilla (chickpea pancakes, 3 large) with cheese
 - 100g roasted peanuts
@@ -384,7 +422,7 @@ Using Mifflin-St Jeor Equation:
 
 ---
 
-### Meal 6: Dinner (8:30 PM)
+### Meal 6: Dinner (7:00 PM)
 **Items:**
 - 250g grilled salmon with lemon butter
 - 4 garlic naans
@@ -396,23 +434,33 @@ Using Mifflin-St Jeor Equation:
 
 ---
 
-**DAY 5 TOTALS:** Calories: 4,300 | Protein: 401g (37%) | Carbs: 543g (50%) | Fat: 171g (13%)
+### Meal 7: Before Bed (9:15 PM)
+**Items:**
+- 2 scoops casein protein in 300ml milk
+- 2 tbsp peanut butter
+- 25g walnuts
+
+**Calories:** 580 | **P:** 52g (36%) | **C:** 32g (22%) | **F:** 27g (42%)
+
+---
+
+**DAY 5 TOTALS:** Calories: 4,320 | Protein: 410g (38%) | Carbs: 539g (50%) | Fat: 162g (12%)
 
 ---
 
 ## DAY 6 (SATURDAY - Triceps Focus Day)
 
-### Meal 1: Pre-Workout (6:00 AM)
+### Meal 1: Early Morning Pre-Workout (4:30 AM)
 **Items:**
 - 5 whole eggs (masala omelette) with 1 tbsp butter
 - 2 slices brown bread with cheese
 - Black coffee
 
-**Calories:** 650 | **P:** 38g (23%) | **C:** 42g (26%) | **F:** 37g (51%)
+**Calories:** 610 | **P:** 36g (24%) | **C:** 35g (23%) | **F:** 36g (53%)
 
 ---
 
-### Meal 2: Post-Workout Breakfast (9:00 AM)
+### Meal 2: Post-Workout Breakfast (7:30 AM)
 **Items:**
 - Chole bhature (3 bhatures, 2 cups chole)
 - 200g paneer tikka
@@ -423,7 +471,7 @@ Using Mifflin-St Jeor Equation:
 
 ---
 
-### Meal 3: Mid-Morning Snack (11:30 AM)
+### Meal 3: Mid-Morning Snack (10:00 AM)
 **Items:**
 - Mutton sandwich: 200g mutton keema, 4 bread slices
 - Protein shake: 300ml milk + 1 scoop whey
@@ -432,7 +480,7 @@ Using Mifflin-St Jeor Equation:
 
 ---
 
-### Meal 4: Lunch (2:00 PM)
+### Meal 4: Lunch (1:00 PM)
 **Items:**
 - 300g chicken biryani (Hyderabadi style)
 - 1 cup black dal (maa ki dal)
@@ -445,7 +493,7 @@ Using Mifflin-St Jeor Equation:
 
 ---
 
-### Meal 5: Evening Snack (5:00 PM)
+### Meal 5: Evening Snack (4:00 PM)
 **Items:**
 - Aloo tikki (potato patties, 4 pieces)
 - 100g roasted cashews
@@ -455,7 +503,7 @@ Using Mifflin-St Jeor Equation:
 
 ---
 
-### Meal 6: Dinner (8:30 PM)
+### Meal 6: Dinner (7:00 PM)
 **Items:**
 - 300g tandoori chicken (full pieces with skin)
 - 4 butter rotis
@@ -467,13 +515,23 @@ Using Mifflin-St Jeor Equation:
 
 ---
 
-**DAY 6 TOTALS:** Calories: 4,500 | Protein: 391g (35%) | Carbs: 556g (49%) | Fat: 191g (16%)
+### Meal 7: Before Bed (9:15 PM)
+**Items:**
+- 2 scoops casein protein in 300ml milk
+- 40g almonds
+- 1 tbsp peanut butter
+
+**Calories:** 560 | **P:** 52g (37%) | **C:** 30g (21%) | **F:** 26g (42%)
+
+---
+
+**DAY 6 TOTALS:** Calories: 4,520 | Protein: 419g (37%) | Carbs: 531g (47%) | Fat: 173g (16%)
 
 ---
 
 ## DAY 7 (SUNDAY - Rest Day)
 
-### Meal 1: Breakfast (8:00 AM)
+### Meal 1: Late Breakfast (7:00 AM)
 **Items:**
 - Paratha plate: 3 aloo parathas with 3 tbsp butter
 - 200g paneer bhurji
@@ -484,7 +542,7 @@ Using Mifflin-St Jeor Equation:
 
 ---
 
-### Meal 2: Mid-Morning Snack (11:00 AM)
+### Meal 2: Mid-Morning Snack (10:00 AM)
 **Items:**
 - Chicken momos (steamed, 10 pieces)
 - Spicy chutney
@@ -494,7 +552,7 @@ Using Mifflin-St Jeor Equation:
 
 ---
 
-### Meal 3: Lunch (1:30 PM)
+### Meal 3: Lunch (1:00 PM)
 **Items:**
 - 300g mutton korma
 - 3 cups pulao rice
@@ -507,7 +565,7 @@ Using Mifflin-St Jeor Equation:
 
 ---
 
-### Meal 4: Evening Snack (5:00 PM)
+### Meal 4: Evening Snack (4:00 PM)
 **Items:**
 - Samosas (4 pieces, vegetable)
 - 100g mixed roasted nuts
@@ -518,7 +576,7 @@ Using Mifflin-St Jeor Equation:
 
 ---
 
-### Meal 5: Dinner (8:30 PM)
+### Meal 5: Dinner (7:00 PM)
 **Items:**
 - 250g grilled fish (bhetki/sea bass)
 - 4 missi rotis
@@ -530,16 +588,17 @@ Using Mifflin-St Jeor Equation:
 
 ---
 
-### Meal 6: Late Night Snack (10:30 PM)
+### Meal 6: Before Bed (9:15 PM)
 **Items:**
 - 2 scoops casein protein in 300ml milk
 - 50g almonds
+- 1 tbsp honey
 
-**Calories:** 500 | **P:** 52g (42%) | **C:** 32g (26%) | **F:** 18g (32%)
+**Calories:** 580 | **P:** 52g (36%) | **C:** 42g (29%) | **F:** 20g (35%)
 
 ---
 
-**DAY 7 TOTALS:** Calories: 5,300 | Protein: 363g (27%) | Carbs: 568g (43%) | Fat: 175g (30%)
+**DAY 7 TOTALS:** Calories: 5,380 | Protein: 395g (29%) | Carbs: 601g (45%) | Fat: 154g (26%)
 
 ---
 
@@ -547,19 +606,19 @@ Using Mifflin-St Jeor Equation:
 
 | **Day** | **Calories** | **Protein (g)** | **Carbs (g)** | **Fat (g)** | **Training** |
 |---------|-------------|----------------|--------------|------------|-------------|
-| Monday | 4,100 | 367 (36%) | 490 (48%) | 183 (16%) | Chest Focus |
-| Tuesday | 4,200 | 406 (39%) | 512 (49%) | 171 (12%) | Shoulder Focus |
-| Wednesday | 4,200 | 364 (35%) | 522 (50%) | 186 (15%) | Back Focus |
-| Thursday | 4,300 | 386 (36%) | 531 (49%) | 182 (15%) | Biceps Focus |
-| Friday | 4,300 | 401 (37%) | 543 (50%) | 171 (13%) | Leg Focus |
-| Saturday | 4,500 | 391 (35%) | 556 (49%) | 191 (16%) | Triceps Focus |
-| Sunday | 5,300 | 363 (27%) | 568 (43%) | 175 (30%) | Rest Day |
-| **WEEKLY AVG** | **4,414** | **383 (35%)** | **532 (48%)** | **180 (17%)** | - |
+| Monday | 4,100 | 395 (39%) | 485 (47%) | 160 (14%) | Chest Focus |
+| Tuesday | 4,220 | 414 (39%) | 504 (48%) | 184 (13%) | Shoulder Focus |
+| Wednesday | 4,240 | 389 (37%) | 515 (49%) | 170 (14%) | Back Focus |
+| Thursday | 4,300 | 407 (38%) | 522 (48%) | 166 (14%) | Biceps Focus |
+| Friday | 4,320 | 410 (38%) | 539 (50%) | 162 (12%) | Leg Focus |
+| Saturday | 4,520 | 419 (37%) | 531 (47%) | 173 (16%) | Triceps Focus |
+| Sunday | 5,380 | 395 (29%) | 601 (45%) | 154 (26%) | Rest Day |
+| **WEEKLY AVG** | **4,440** | **404 (36%)** | **528 (48%)** | **167 (16%)** | - |
 
 ### Weekly Macronutrient Distribution
-- **Average Protein:** 383g/day = 3.42g/kg bodyweight (Optimal for bulking)
-- **Average Carbs:** 532g/day = 4.75g/kg bodyweight (High for training energy)
-- **Average Fats:** 180g/day = 1.61g/kg bodyweight (Adequate for hormones)
+- **Average Protein:** 404g/day = 3.61g/kg bodyweight (Optimal for bulking)
+- **Average Carbs:** 528g/day = 4.71g/kg bodyweight (High for training energy)
+- **Average Fats:** 167g/day = 1.49g/kg bodyweight (Adequate for hormones)
 
 ---
 
@@ -575,7 +634,37 @@ Using Mifflin-St Jeor Equation:
 
 ---
 
-## Key Features of This Plan
+## Daily Schedule Overview (Training Days: Mon-Sat)
+
+| **Time** | **Activity** | **Meal** | **Purpose** |
+|----------|-------------|----------|-------------|
+| 4:00 AM | Wake up | - | Begin day routine |
+| 4:30 AM | Pre-workout meal | Meal 1 | Light fuel for training |
+| 5:00-5:30 AM | Travel to gym | - | Commute time |
+| 5:30-7:00 AM | Workout session | - | Intense training (90 mins) |
+| 7:00-7:30 AM | Return home/shower | - | Post-workout routine |
+| 7:30 AM | Post-workout breakfast | Meal 2 | Recovery & muscle building |
+| 10:00 AM | Mid-morning snack | Meal 3 | Maintain anabolic state |
+| 1:00 PM | Lunch | Meal 4 | Main meal of the day |
+| 4:00 PM | Evening snack | Meal 5 | Pre-dinner fuel |
+| 7:00 PM | Dinner | Meal 6 | Family meal time |
+| 9:15 PM | Before bed protein | Meal 7 | Overnight recovery |
+| 10:00 PM | Sleep | - | 6 hours rest & recovery |
+
+## Rest Day Schedule (Sunday)
+
+| **Time** | **Activity** | **Meal** | **Purpose** |
+|----------|-------------|----------|-------------|
+| 4:00 AM | Wake up | - | Maintain sleep routine |
+| 7:00 AM | Late breakfast | Meal 1 | Larger relaxed meal |
+| 10:00 AM | Mid-morning snack | Meal 2 | Recovery nutrition |
+| 1:00 PM | Lunch | Meal 3 | Family meal |
+| 4:00 PM | Evening snack | Meal 4 | Leisure eating |
+| 7:00 PM | Dinner | Meal 5 | Family dinner |
+| 9:15 PM | Before bed protein | Meal 6 | Overnight recovery |
+| 10:00 PM | Sleep | - | 6 hours rest |
+
+---
 
 ### Variety Across Days
 ✓ Different protein sources daily (chicken, mutton, fish, eggs, paneer)  
@@ -589,10 +678,12 @@ Using Mifflin-St Jeor Equation:
 ✓ Practical for home cooking or local restaurants
 
 ### Timing Optimization
-✓ Pre-workout meal 60 mins before training (light, fast-digesting)  
-✓ Post-workout meal within 90 mins (high protein + carbs)  
-✓ Protein distributed across 6 meals for muscle synthesis  
-✓ Higher calories on rest day (Sunday) to support recovery
+✓ **Pre-workout meal:** 4:30 AM (60 mins before 5:30 AM workout start)  
+✓ **Post-workout meal:** 7:30 AM (within 90 mins - high protein + carbs)  
+✓ Protein distributed across 7 meals for optimal muscle synthesis  
+✓ Higher calories on rest day (Sunday) to support recovery  
+✓ **Before bed protein:** 9:15 PM casein for overnight muscle repair  
+✓ **In bed by:** 10:00 PM for 6 hours quality sleep
 
 ### Practical Considerations
 ✓ Minimal fruit consumption as per preference  
@@ -604,9 +695,11 @@ Using Mifflin-St Jeor Equation:
 
 ## Hydration Guidelines
 - **Daily Water Intake:** 4-5 liters (including training days)
-- **During Training:** 500-750ml
+- **Upon Waking (4:00 AM):** 500ml warm water
+- **During Training (5:30-7:00 AM):** 750-1000ml
 - **With Each Meal:** 300-500ml
-- **Before Bed:** 200-300ml
+- **Before Bed (9:15 PM):** 200-300ml
+- **Note:** Adjust based on winter Delhi weather (less sweating than summer)
 
 ---
 
@@ -651,22 +744,47 @@ Using Mifflin-St Jeor Equation:
 
 ## Important Notes
 
+⚠️ **Early Morning Adaptation:** Your body will need 7-10 days to adjust to eating at 4:30 AM. Start with lighter pre-workout meals initially.
+
+⚠️ **Sleep Priority:** With 4 AM wake-up, you're getting only 6 hours sleep. Aim for 10 PM sharp bedtime. Consider 20-min power nap post-lunch if possible.
+
+⚠️ **Pre-Workout Digestion:** Keep Meal 1 light and easily digestible. Heavy meals before 5:30 AM workout may cause discomfort.
+
 ⚠️ **Adjustment Period:** Week 1-2 may feel overwhelming in volume. Start with 3,800 calories and gradually increase.
 
-⚠️ **Digestion:** If experiencing bloating, reduce portion sizes and add one more meal.
+⚠️ **Digestion:** If experiencing bloating, reduce portion sizes slightly at Meals 2 or 4.
 
-⚠️ **Weight Monitoring:** Weigh yourself every Sunday morning (empty stomach). Target: 0.5-1 kg gain per month.
-
-⚠️ **Sleep:** Aim for 7-8 hours nightly for optimal recovery and hormone production.
+⚠️ **Weight Monitoring:** Weigh yourself every Sunday morning (empty stomach after bathroom). Target: 0.5-1 kg gain per month.
 
 ⚠️ **Flexibility:** You can swap similar items (chicken for fish, rice for rotis) while maintaining macros.
 
+⚠️ **Family Time:** Dinner (7:00 PM) is designed as family meal time - share with kids but adjust their portions appropriately.
+
 ---
 
-## Meal Prep Tips for Busy Fathers
+## Meal Prep Tips for Early Risers
 
-1. **Batch Cook on Sunday:** Cook 2-3 kg chicken, boil 50 eggs, prep dal for the week
-2. **Morning Efficiency:** Pre-mix protein shakes the night before
-3. **Lunch Boxes:** Pack lunch for work the previous night
-4. **Family Involvement:** Share dinner with family (adjust portions)
-5. **Restaurant Backup:** Keep list of high-protein restaurant options for busy days
+1. **Sunday Night Prep:**
+    - Boil 50+ eggs for the week
+    - Pre-portion nuts into small containers
+    - Prep protein shakes (dry ingredients only)
+
+2. **Night Before (9:30 PM):**
+    - Keep next day's pre-workout meal ready in fridge
+    - Fill water bottles for gym
+    - Pack Meal 3 (mid-morning snack) if going to office
+
+3. **Morning Efficiency (4:00-4:30 AM):**
+    - Quick reheat of pre-workout meal
+    - Eat by 4:30 AM to allow 60-min digestion
+    - Carry protein shake powder for post-workout
+
+4. **Family Involvement:**
+    - Share dinner with family (7:00 PM)
+    - Weekend lunches can be family meals
+    - Kids can help with meal prep on Sunday
+
+5. **Restaurant Backup:**
+    - Keep list of high-protein restaurant options
+    - Nearby dhaba/restaurants for emergency meals
+    - Zomato favorites for quick delivery
