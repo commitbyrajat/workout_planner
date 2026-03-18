@@ -1,6 +1,7 @@
 # Consolidated Workout Plan Prompt
+## Don't generate any code. Simply output table in markdown.
 
-I am based out of Delhi and want to train during the duration 27th January to 31st March. Since this period will see a transition towards summer, create a workout plan accordingly to help me cutting calories and loose weight almost 15 Kgs.
+I am based out of Delhi and want to train during the duration 27th January to 31st March. Since this period will see a transition towards summer, create a workout plan in table format accordingly to help me cutting calories and loose weight almost 15 Kgs.
 
 I want to loose weight and gain strength without loosing muscles. Looking for a 2 muscle group a day along plan as follows:
 
@@ -15,9 +16,9 @@ I want to loose weight and gain strength without loosing muscles. Looking for a 
 
 ## **Workout Plan Structure**
 
-* Each day must contain 7 exercises.
-* 60% of the exercises (4 exercises) must target the major muscle group of the day.
-* 40% of the exercises (3 exercises) must target the minor muscle groups.
+* Each day must contain 6 exercises.
+* 50% of the exercises (3 exercises) must target the major muscle group of the day.
+* 50% of the exercises (3 exercises) must target the minor muscle groups.
 * After every major muscle exercise, there must be at least one exercise for a minor muscle.
 * Exercises must be selected from the reference library provided.
 * Since my gym does not have a Hack Squat machine, do not include Hack Squat in the plan.
